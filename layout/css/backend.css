@@ -1,0 +1,341 @@
+div.card {
+    margin:100px auto !important;
+    padding: 10px;
+}
+
+
+.input-group{
+    margin: 10px !important;
+}
+
+input.btn{
+    margin-left: 10px;
+}
+
+h1{
+    margin-bottom: 30px !important;
+    font-weight: bold;
+}
+
+
+.fa-2x{
+    font-size: 1em !important;
+}
+
+.my-table tr:first-child td{
+    background-color:black ;
+    color: #fff;
+}
+
+.my-table td{
+    vertical-align: middle !important;
+}
+
+.fas{
+    position: relative;
+    right: 4px;
+}
+.btn{
+    padding: 2px 8px;
+    margin: 4px;
+    
+}
+
+.my-table{
+    box-shadow:0 3px 10px grey;
+}
+.card-body span{
+    display: block;
+    font-size: 50px;
+}
+.main{
+    background-color:#9b59b6;
+    padding: 10px 10px;
+    font-size: 20px;
+  
+    
+}
+.my{
+    position: relative;
+    bottom: 100px;
+    border: none;
+    
+
+}
+.ul{
+    position: relative;
+    bottom: 160px;
+    
+  
+    
+}
+.ut{
+    margin: 10px;
+    background-color: #EEE;
+}
+span a{
+    color: black;
+}
+
+.activate{
+    margin: 5px;
+}
+
+span .btn{
+    padding: 2px !important;
+}
+
+.radio{
+    position: relative;
+    left: 5px;
+    margin: 2px;
+}
+
+.cat h3{
+    margin: 0 0 5px;
+}
+
+.vis{
+   
+    margin-right: 5px;
+    margin-left: 5px;
+    padding: 5px;
+    color: #e74c3c;
+    border-radius: 4px;
+    font-size: large;
+
+}
+
+.com{
+   
+    margin-right: 5px;
+    margin-left: 5px;
+    padding: 5px;
+    color: #34495e;
+    border-radius: 4px;
+    font-size: large;
+
+}
+.ads{
+    
+    margin-right: 5px;
+    margin-left: 5px;
+    padding: 5px;
+    color: #2ecc71;
+    border-radius: 4px;
+    font-size: large;
+
+}
+
+
+.cat{
+    position: relative;
+    border: black !important;
+    border-bottom-width: medium !important;
+    margin: 10px;
+}
+
+.hidden-buttons{
+    position: absolute;
+    right: 10px;
+    top: 15px;
+}
+
+.ordering a{
+   
+    color: #2c3e50;
+   text-decoration: none;
+    margin: 2px;
+    font-weight: bold;
+
+}
+
+.list-group-item {
+    position: relative;
+}
+
+.ordering{
+    position: absolute;
+    right: 10px;
+    bottom: 20px;
+}
+
+.act{
+    color: #d35400 !important;
+}
+
+.save{
+    position: relative;
+    right: 8px;
+}
+    
+.nvis{
+    color: #27ae60 !important ;
+}    
+
+.fa{
+    position: relative;
+    right: 2px;
+}
+
+.add{
+    margin-bottom: 20px;
+}
+.main{
+    position: relative;
+   
+}
+.main .fa{
+    font-size: 60;
+    position: absolute;
+    top: 50px;
+    right: 140px;
+    color: blanchedalmond;
+
+} 
+.main a{
+    position: relative;
+    left:30px;
+    text-decoration: none;
+    
+}
+
+
+.main .fas{
+    font-size: 60;
+    position: absolute;
+    top: 50px;
+    right: 140px;
+    color: blanchedalmond;
+   
+    
+
+} 
+
+.users{
+    border-width: 3px;
+    border-color: black;
+}
+
+
+.n a{
+    margin: 5px;
+    position: relative;
+    top: 10px;
+    text-decoration: none;
+    color: cornsilk;
+}
+
+div .it{
+    margin: 10px !important;
+}
+
+.it a{
+    position: relative;
+    right: 3px;
+}
+
+.it h4{
+    position: absolute;
+    right: 10px;
+    bottom:  27px;
+}
+
+.sign{
+    padding: 10px;
+   
+}
+
+.btn{
+    position: relative;
+    right: 10px;
+}
+
+.card-body a{
+    text-decoration: none;
+}
+
+
+.pro{
+    margin: 40px;
+}
+
+div .errors{
+    color: #e84118;
+   margin-left: 10px;
+   position: relative;
+   bottom: 10px;
+}
+
+li:nth-child(odd){
+    background-color: #EEE;
+}
+
+ li span{
+    display: inline-block;
+    width: 100px;
+    
+} 
+
+.sign a{
+    text-decoration: none;
+}
+
+.ad{
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.i{
+   
+    margin-top: 10px;
+    position: relative;
+    right: 50px;
+}
+
+.ig{
+    padding: 16px;
+}
+
+.comment{
+    position: relative;
+    right: 50px;
+    
+}
+
+.comi{
+    margin-top: 5px;
+}
+
+.comi img{
+    max-width: 100px;
+    display: block;
+    margin: auto;
+
+}
+
+.comi2{
+    background-color: #EEE;
+    
+}
+
+.appr{
+    background-color: #e74c3c;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    width: 150px;
+}
+
+.appr2{
+    background-color: #2ecc71;
+    width: 80px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+
+}
+
+.p{
+    position: relative;
+    right: 5px;
+}
